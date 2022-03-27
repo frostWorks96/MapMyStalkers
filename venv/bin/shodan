@@ -1,4 +1,4 @@
-#!/root/MapMyStalkers/venv/bin/python
+#!/root/testFolder/reaktTest/venv/bin/python
 # EASY-INSTALL-ENTRY-SCRIPT: 'shodan==1.27.0','console_scripts','shodan'
 import re
 import sys
